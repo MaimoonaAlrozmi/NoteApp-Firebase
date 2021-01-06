@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521735578943",
+    "firebase_url": "https://fir-apps-4788c-default-rtdb.firebaseio.com",
+    "project_id": "fir-apps-4788c",
+    "storage_bucket": "fir-apps-4788c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521735578943:android:9b2ed3276efafc9a665f8a",
+        "android_client_info": {
+          "package_name": "com.maimoona.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521735578943-lk4m9f0g6pr0a0cvgkplbke6v9p4ls1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJp_zx5HWtdfdKOpathbjfvCQoZ5kqtCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521735578943-lk4m9f0g6pr0a0cvgkplbke6v9p4ls1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
